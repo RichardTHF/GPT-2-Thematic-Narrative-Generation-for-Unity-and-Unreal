@@ -14,7 +14,7 @@ To Train the models, simply modify the import.py script on line 14 to include th
 
 ### Running the API
 
-Simply run api.py, it will be accessable at http://ip?speech=*a*&style=**b*&trunc=*c*&length=*d*
+Simply run api.py, it will be accessable at http://ip?speech=a&style=b&trunc=c&length=d
 
 *a* refers to a string which will include a prefix text you want to start the dialogue with. 
 
